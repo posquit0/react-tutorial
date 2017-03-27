@@ -1,0 +1,16 @@
+{
+  "name": "00-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "python -mSimpleHTTPServer 3333",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claud D. Park <posquit0.bj@gmail.com> (http://www.posquit0.com)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
