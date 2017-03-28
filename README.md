@@ -26,16 +26,28 @@
 
 ## <a name="curriculum">Curriculum
 
-| #    | Title                                         | Estimated Time |
-| :--: |---------------------------------------------- | :------------- |
-| 0x00 | [Hello React!](00-hello-world/README.md)      | 40 mins        |
+페이스북에서 만든 UI(User Interface) 라이브러리, [**리액트(React)**](https://facebook.github.io/react/)를 활용한 모던 웹 개발 방법을 다룹니다.
+
+| #    | Title                                                            | Estimated Time |
+| :--: |----------------------------------------------------------------- | :------------- |
+| 0x00 | [Hello React!](00-hello-world/README.md)                         | 40 mins        |
+| 0x01 | [Create React App](01-create-react-app/README.md)                | 40 mins        |
 
 
 ## <a name="extra-curriculum">Extra Curriculum
 
-| #    | Title                                         | Estimated Time |
-| :--: |---------------------------------------------- | :------------- |
-| 0x90 | [Web Basics](90-web-basics/README.md)         | 90 mins        |
+이 커리큘럼을 이해하기 위한 이해하고 있어야 할 선수지식을 추가 커리큘럼을 통해 다룹니다. 해당 내용이 필요하다 생각되는 경우 학습하도록 합니다.
+
+| #    | Title                                                            | Estimated Time |
+| :--: |----------------------------------------------------------------- | :------------- |
+| 0x90 | [Web Basics](90-web-basics/README.md)                            | 90 mins        |
+| 0x91 | [Git Basics](91-git-basics/README.md)                            | 60 mins        |
+| 0x92 | [Git Intermediate](92-git-intermediate/README.md)                | 50 mins        |
+| 0x93 | [Be Nerd of Vim](93-be-nerd-of-vim/README.md)                    | 90 mins        |
+| 0x94 | [Be Nerd of Zsh](94-be-nerd-of-zsh/README.md)                    | 40 mins        |
+| 0x95 | [Be Nerd of TMUX](95-be-nerd-of-tmux/README.md)                  | 40 mins        |
+| 0x96 | [Nginx Basics](96-nginx-basics/README.md)                        | 40 mins        |
+| 0x97 | [Introduction of LetsEncrypt](97-intro-of-letsencrypt/README.md) | 40 mins        |
 
 
 ## <a name="troubleshooting">Troubleshooting
