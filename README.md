@@ -40,7 +40,7 @@
 
 | #    | Title                                                            | Estimated Time |
 | :--: |----------------------------------------------------------------- | :------------- |
-| 0x90 | [Web Basics](90-web-basics/README.md)                            | 90 mins        |
+| 0x90 | [Web Basics](90-web-basics/README.md)                            | 110 mins       |
 | 0x91 | [Git Basics](91-git-basics/README.md)                            | 60 mins        |
 | 0x92 | [Git Intermediate](92-git-intermediate/README.md)                | 50 mins        |
 | 0x93 | [Be Nerd of Vim](93-be-nerd-of-vim/README.md)                    | 90 mins        |
