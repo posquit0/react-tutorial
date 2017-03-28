@@ -24,6 +24,28 @@
 **React Tutorial**은 [포애퍼](http://www.poapper.com)에서 대학생들에게 모던 웹 개발 입문을 가르치기 위하여 작성된 커리큘럼입니다.
 
 
+## <a name="curriculum">Curriculum
+
+| #    | Title                                         | Estimated Time |
+| :--: |---------------------------------------------- | :------------- |
+| 0x00 | [Hello React!](00-hello-world/README.md)      | 40 mins        |
+
+
+## <a name="extra-curriculum">Extra Curriculum
+
+| #    | Title                                         | Estimated Time |
+| :--: |---------------------------------------------- | :------------- |
+| 0x90 | [Web Basics](90-web-basics/README.md)         | 90 mins        |
+
+
+## <a name="troubleshooting">Troubleshooting
+
+- 되도록이면 검색을 통해 스스로 해결하는 것을 권장합니다.
+- 라이브러리의 경우 공식 문서(Documentation)을 천천히 한 번 읽어 보시고 사용하는 것이 좋습니다.
+- 국문보다는 영문 문서를 읽는 것이 최신 정보를 따라가기 수월합니다.
+- 문제 해결에 어려움을 겪는 경우 이슈(Issue)로 질문을 등록해주시면 도와드립니다.
+
+
 ## <a name="links">Links
 
 - [**React**](https://facebook.github.io/react)
