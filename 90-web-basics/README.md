@@ -25,6 +25,7 @@
 - [IPv4와 IPv6의 차이점, 그리고 IPv6의 장점](http://enter.tistory.com/140)
 - [HTTP 상태 코드](https://ko.wikipedia.org/wiki/HTTP_상태_코드)
 - [HTTP 요청/응답 스펙 간략히 이해하기](https://blog.outsider.ne.kr/888)
+- [HTTP 프로토콜](http://webmastertool.naver.com/guide/basic_http.naver)
 - [안전한 패스워드 저장](http://d2.naver.com/helloworld/318732)
 - [REST 아키텍처를 훌륭하게 적용하기 위한 몇 가지 디자인 팁](https://spoqa.github.io/2012/02/27/rest-introduction.html)
 - [Postman](https://www.getpostman.com/)
