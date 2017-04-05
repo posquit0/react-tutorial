@@ -2,8 +2,6 @@
 
 ## <a name="introduction">Introduction
 
-기초를 몰라도 웹 개발은 가능합니다. 하지만, 기초가 튼튼하고 웹이라는 시스템이 어떻게 돌아가는지 전체적인 그림을 볼 수 있다면 디테일이 더욱 살아있는 개발을 할 수 있습니다.
-
 
 ## <a name="topics">Topics
 
