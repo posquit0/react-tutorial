@@ -62,6 +62,7 @@
 
 - [Vim Galore: Everything you need to know about Vim](https://github.com/mhinz/vim-galore)
 - [VimAwesome: Vim 플러그인 큐레이션](http://vimawesome.com/)
+- [Vim Shortcut Wallpaper: Vim 단축키 배경화면](https://github.com/LevelbossMike/vim_shortcut_wallpaper)
 - [NeoVim](https://neovim.io/)
 - [NeoVim GitHub](https://github.com/neovim/neovim)
 - [Github Dotfiles](https://dotfiles.github.io/)
