@@ -1,4 +1,4 @@
-# Be Nerd of Vim
+# Be Nerd of Zsh
 
 ## <a name="introduction">Introduction
 
