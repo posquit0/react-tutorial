@@ -24,8 +24,10 @@
 ### Misc
 
 - [TMUX Plugins in GitHub](https://github.com/tmux-plugins)
-- [Awesome Tmux](https://github.com/rothgar/awesome-tmux)
-- [Github Dotfiles](https://dotfiles.github.io/)
+- [Awesome TMUX](https://github.com/rothgar/awesome-tmux)
+- [TMUX Quick Reference](https://tmuxcheatsheet.com/)
+- [TMUX Shortcuts & Cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
+- [GitHub Dotfiles](https://dotfiles.github.io/)
 
 
 ## <a name="quest">Quest
