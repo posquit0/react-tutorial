@@ -31,7 +31,8 @@
 | #    | Title                                                            | Estimated Time |
 | :--: |----------------------------------------------------------------- | :------------- |
 | 0x00 | [Hello React!](00-hello-world/README.md)                         | 40 mins        |
-| 0x01 | [Create React App](01-create-react-app/README.md)                | 40 mins        |
+| 0x01 | [Create React App](01-create-react-app/README.md)                | 20 mins        |
+| 0x02 | [Simple Contacts](02-simple-contacts/README.md)                  | 40 mins        |
 
 
 ## Extra Curriculum

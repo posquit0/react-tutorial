@@ -1,0 +1,22 @@
+.contact-item {
+  list-style: none;
+}
+
+.contact-img {
+  width: 180px;
+  height: 180px;
+}
+
+.contact-name {
+  font-weight: bold;
+  font-size: 1.3em;
+}
+
+.contact-email a {
+  text-decoration: none;
+  color: red;
+}
+
+.contact-email a:hover {
+  color: grey;
+}
