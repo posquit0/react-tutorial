@@ -30,9 +30,9 @@
 
 | #    | Title                                                            | Estimated Time |
 | :--: |----------------------------------------------------------------- | :------------- |
-| 0x00 | [Hello React!](00-hello-world/README.md)                         | 40 mins        |
-| 0x01 | [Create React App](01-create-react-app/README.md)                | 20 mins        |
-| 0x02 | [Simple Contacts](02-simple-contacts/README.md)                  | 40 mins        |
+| 0x00 | [Hello React!](00-hello-world/)                                  | 40 mins        |
+| 0x01 | [Create React App](01-create-react-app/)                         | 20 mins        |
+| 0x02 | [Simple Contacts](02-simple-contacts/)                           | 40 mins        |
 
 
 ## Extra Curriculum
@@ -41,14 +41,14 @@
 
 | #    | Title                                                            | Estimated Time |
 | :--: |----------------------------------------------------------------- | :------------- |
-| 0x90 | [Web Basics](90-web-basics/README.md)                            | 110 mins       |
-| 0x91 | [Git Basics](91-git-basics/README.md)                            | 60 mins        |
-| 0x92 | [Git Intermediate](92-git-intermediate/README.md)                | 50 mins        |
-| 0x93 | [Be Nerd of Vim](93-be-nerd-of-vim/README.md)                    | 50 mins        |
-| 0x94 | [Be Nerd of Zsh](94-be-nerd-of-zsh/README.md)                    | 20 mins        |
-| 0x95 | [Be Nerd of TMUX](95-be-nerd-of-tmux/README.md)                  | 20 mins        |
-| 0x96 | [Nginx Basics](96-nginx-basics/README.md)                        | 40 mins        |
-| 0x97 | [Introduction of LetsEncrypt](97-intro-of-letsencrypt/README.md) | 40 mins        |
+| 0x90 | [Web Basics](90-web-basics/)                                     | 110 mins       |
+| 0x91 | [Git Basics](91-git-basics/)                                     | 60 mins        |
+| 0x92 | [Git Intermediate](92-git-intermediate/)                         | 50 mins        |
+| 0x93 | [Be Nerd of Vim](93-be-nerd-of-vim/)                             | 50 mins        |
+| 0x94 | [Be Nerd of Zsh](94-be-nerd-of-zsh/)                             | 20 mins        |
+| 0x95 | [Be Nerd of TMUX](95-be-nerd-of-tmux/)                           | 20 mins        |
+| 0x96 | [Nginx Basics](96-nginx-basics/)                                 | 40 mins        |
+| 0x97 | [Introduction of LetsEncrypt](97-intro-of-letsencrypt/)          | 40 mins        |
 
 
 ## Troubleshooting
