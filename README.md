@@ -24,7 +24,7 @@
 **React Tutorial**은 [포애퍼](http://www.poapper.com)에서 대학생들에게 모던 웹 개발 입문을 가르치기 위하여 작성된 커리큘럼입니다.
 
 
-## <a name="curriculum">Curriculum
+## Curriculum
 
 페이스북에서 만든 UI(User Interface) 라이브러리, [**리액트(React)**](https://facebook.github.io/react/)를 활용한 모던 웹 개발 방법을 다룹니다.
 
@@ -34,7 +34,7 @@
 | 0x01 | [Create React App](01-create-react-app/README.md)                | 40 mins        |
 
 
-## <a name="extra-curriculum">Extra Curriculum
+## Extra Curriculum
 
 이 커리큘럼을 이해하기 위한 이해하고 있어야 할 선수지식을 추가 커리큘럼을 통해 다룹니다. 해당 내용이 필요하다 생각되는 경우 학습하도록 합니다.
 
@@ -50,7 +50,7 @@
 | 0x97 | [Introduction of LetsEncrypt](97-intro-of-letsencrypt/README.md) | 40 mins        |
 
 
-## <a name="troubleshooting">Troubleshooting
+## Troubleshooting
 
 - 되도록이면 검색을 통해 스스로 해결하는 것을 권장합니다.
 - 라이브러리의 경우 공식 문서(Documentation)을 천천히 한 번 읽어 보시고 사용하는 것이 좋습니다.
@@ -58,7 +58,12 @@
 - 문제 해결에 어려움을 겪는 경우 이슈(Issue)로 질문을 등록해주시면 도와드립니다.
 
 
-## <a name="links">Links
+## Further Reading
+
+- [Exploring ES6](http://exploringjs.com/es6/)
+
+
+## Links
 
 - [**React**](https://facebook.github.io/react)
 - [**PoApper**](http://www.poapper.com)
