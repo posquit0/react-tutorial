@@ -1,11 +1,11 @@
 # Web Basics
 
-## <a name="introduction">Introduction
+## Introduction
 
 기초를 몰라도 웹 개발은 가능합니다. 하지만, 기초가 튼튼하고 웹이라는 시스템이 어떻게 돌아가는지 전체적인 그림을 볼 수 있다면 디테일이 더욱 살아있는 개발을 할 수 있습니다.
 
 
-## <a name="topics">Topics
+## Topics
 
 - 소켓이란 무엇인가?
 - IP와 PORT란 무엇인가?
@@ -20,7 +20,7 @@
 - 포스트맨(Postman)을 활용한 HTTP 통신 테스트
 
 
-## <a name="resources">Resources
+## Resources
 
 - [IPv4와 IPv6의 차이점, 그리고 IPv6의 장점](http://enter.tistory.com/140)
 - [HTTP 상태 코드](https://ko.wikipedia.org/wiki/HTTP_상태_코드)
@@ -31,7 +31,7 @@
 - [Postman](https://www.getpostman.com/)
 
 
-## <a name="checklist">Checklist
+## Checklist
 
 - CRUD가 무엇인지 설명하시오.
 - CRUD 개념과 연관지어 각 HTTP 메소드들의 역할을 설명하시오.

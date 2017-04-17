@@ -1,9 +1,9 @@
 # Be Nerd of TMUX
 
-## <a name="introduction">Introduction
+## Introduction
 
 
-## <a name="topics">Topics
+## Topics
 
 - **설정파일(dotfiles)**란 무엇인가?
 - [**TPM**](https://github.com/tmux-plugins/tpm)을 이용한 TMUX 플러그인 관리
@@ -11,7 +11,7 @@
 - Screen vs TMUX
 
 
-## <a name="resources">Resources
+## Resources
 
 ### TMUX Plugins
 
@@ -30,7 +30,7 @@
 - [GitHub Dotfiles](https://dotfiles.github.io/)
 
 
-## <a name="quest">Quest
+## Quest
 
 - 나만의 Tmux 설정을 위한 GitHub Repository를 만들어 본다.
 - **TPM**를 이용하여 TMUX 플러그인을 설치/제거 해본다.
@@ -39,6 +39,6 @@
 - GitHub에서 `tmux`를 검색해본다.
 
 
-## <a name="checklist">Checklist
+## Checklist
 
 - dotfiles은 무엇인가?

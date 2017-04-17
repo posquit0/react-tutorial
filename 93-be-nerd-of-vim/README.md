@@ -1,9 +1,9 @@
 # Be Nerd of Vim
 
-## <a name="introduction">Introduction
+## Introduction
 
 
-## <a name="topics">Topics
+## Topics
 
 - **설정파일(dotfiles)**란 무엇인가?
 - [**Vim Plug**](https://github.com/junegunn/vim-plug)을 이용한 Vim 플러그인 관리
@@ -20,7 +20,7 @@
 - NeoVim에 대하여
 
 
-## <a name="resources">Resources
+## Resources
 
 ### Vim Plugins
 
@@ -66,7 +66,7 @@
 - [Github Dotfiles](https://dotfiles.github.io/)
 
 
-## <a name="quest">Quest
+## Quest
 
 - 나만의 Vim 설정을 위한 GitHub Repository를 만들어 본다.
 - **Vim Plug**를 이용하여 플러그인을 설치/삭제해본다.
@@ -75,7 +75,7 @@
 - GitHub에서 `vimrc`를 검색해본다.
 
 
-## <a name="checklist">Checklist
+## Checklist
 
 - dotfiles은 무엇인가?
 - Vim과 Emacs같은 CLI 환경의 에디터를 익혀 두어야 하는 이유는 무엇인가?

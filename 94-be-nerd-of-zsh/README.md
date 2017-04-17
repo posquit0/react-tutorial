@@ -1,9 +1,9 @@
 # Be Nerd of Zsh
 
-## <a name="introduction">Introduction
+## Introduction
 
 
-## <a name="topics">Topics
+## Topics
 
 - **설정파일(dotfiles)**란 무엇인가?
 - [**Oh My Zsh**](http://ohmyz.sh/)을 이용한 Zsh 플러그인 관리
@@ -11,7 +11,7 @@
 - Bash vs Zsh vs Fish
 
 
-## <a name="resources">Resources
+## Resources
 
 ### Zsh Plugins
 
@@ -33,7 +33,7 @@
 - [Github Dotfiles](https://dotfiles.github.io/)
 
 
-## <a name="quest">Quest
+## Quest
 
 - 나만의 Zsh 설정을 위한 GitHub Repository를 만들어 본다.
 - **Oh My Zsh**를 이용하여 Zsh 플러그인을 설정해본다.
@@ -42,7 +42,7 @@
 - GitHub에서 `zshrc`를 검색해본다.
 
 
-## <a name="checklist">Checklist
+## Checklist
 
 - 셸(Shell)이란 무엇인가?
 - dotfiles은 무엇인가?
