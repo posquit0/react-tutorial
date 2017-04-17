@@ -14,7 +14,6 @@ React는 브라우저 상에서 자바스크립트로 실행되지만, 개발 �
 - `package.json` 작성법
 - Python의 `SimpleHTTPServer` 활용법
 - JSX 소개
-- 바벨(Babel) 간략 소개 및 트랜스파일러의 역할
 
 
 ## Resources
