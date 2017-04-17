@@ -71,16 +71,16 @@
 - [**PoApper**](http://www.poapper.com)
 
 
-## Contact
-
-If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
-
-
 ## Contribute
 
 프로젝트에 도움이 될 수 있는 의견은 언제든지 환영입니다. [이슈 등록](https://github.com/posquit0/react-tutorial/issues/new) 혹은 Pull Request을 이용해주세요.
 
 React Tutorials follows the [**Contributor Covenant**](http://contributor-covenant.org/version/1/4/) Code of Conduct.
+
+
+## Contact
+
+If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
 
 
 ## License
