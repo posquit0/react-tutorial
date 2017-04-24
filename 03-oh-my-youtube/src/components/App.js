@@ -1,6 +1,17 @@
 import React, { Component } from 'react';
+import SearchBar from './SearchBar';
+import VideoList from './VideoList';
 import logo from '../logo.svg';
 import './App.css';
+
+
+const videos = [{
+  id: 1,
+  title: 'hello'
+}, {
+  id: 2,
+  title: 'world'
+}];
 
 class App extends Component {
   render() {
@@ -10,9 +21,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to React</h2>
         </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <SearchBar />
+        <VideoList videos={ videos } />
       </div>
     );
   }
