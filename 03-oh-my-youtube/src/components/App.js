@@ -8,15 +8,6 @@ import './App.css';
 
 
 const YOUTUBE_API_KEY = 'AIzaSyAXAgSCHclQLTB7ZfzAPyrIH1a8A4lT8-I';
-const videos = [{
-  id: 1,
-  title: 'hello',
-  description: 'world'
-}, {
-  id: 2,
-  title: 'PoApper 2017',
-  description: 'React Seminar'
-}];
 
 class App extends Component {
   constructor(props) {
@@ -31,7 +22,6 @@ class App extends Component {
   searchVideos(query) {
     const options = { key: YOUTUBE_API_KEY, term: query };
     searchYoutube(options, (videos) => {
-      console.log(videos);
       this.setState({
         videos,
         selectedVideo: videos[0]
@@ -47,8 +37,8 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
         <SearchBar onQueryChange={ query => this.searchVideos(query) } />
-        <VideoDetail video={ videos[0] } />
-        <VideoList videos={ videos } />
+        <VideoDetail video={ this.state.selectedVideo } />
+        <VideoList videos={ this.state.videos } />
       </div>
     );
   }

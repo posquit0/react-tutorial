@@ -5,7 +5,7 @@ import VideoListItem from './VideoListItem';
 class VideoList extends Component {
   renderVideoListItem(video) {
     return (
-      <VideoListItem key={ video.id } video={ video }></VideoListItem>
+      <VideoListItem key={ video.id.videoId } video={ video }></VideoListItem>
     );
   }
 
