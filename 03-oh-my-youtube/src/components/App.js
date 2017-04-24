@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import SearchBar from './SearchBar';
+import VideoDetail from './VideoDetail';
 import VideoList from './VideoList';
 import logo from '../logo.svg';
 import './App.css';
@@ -7,10 +8,12 @@ import './App.css';
 
 const videos = [{
   id: 1,
-  title: 'hello'
+  title: 'hello',
+  description: 'world'
 }, {
   id: 2,
-  title: 'world'
+  title: 'PoApper 2017',
+  description: 'React Seminar'
 }];
 
 class App extends Component {
@@ -22,6 +25,7 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
         <SearchBar />
+        <VideoDetail video={ videos[0] } />
         <VideoList videos={ videos } />
       </div>
     );
