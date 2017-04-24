@@ -53,7 +53,9 @@
 | 0x95 | [Be Nerd of TMUX](95-be-nerd-of-tmux/)                           | 20 mins        |
 | 0x96 | [Nginx Basics](96-nginx-basics/)                                 | 40 mins        |
 | 0x97 | [Introduction of LetsEncrypt](97-intro-of-letsencrypt/)          | 40 mins        |
-| 0x98 | [GitHub Page & Cloudflare](98-github-page-and-cloudflare/)       | 50 mins        |
+| 0x98 | [Introduction of DNS Management](98-intro-of-dns/)               | 50 mins        |
+| 0x99 | [GitHub Page & Cloudflare](99-github-page-and-cloudflare/)       | 50 mins        |
+| 0x9A | Webpack & Babel                                                  | xx mins        |
 
 
 ## Troubleshooting
