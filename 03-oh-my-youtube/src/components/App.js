@@ -38,7 +38,9 @@ class App extends Component {
         </div>
         <SearchBar onQueryChange={ query => this.searchVideos(query) } />
         <VideoDetail video={ this.state.selectedVideo } />
-        <VideoList videos={ this.state.videos } />
+        <VideoList
+          videos={ this.state.videos }
+          onVideoSelect={ selectedVideo => this.setState({ selectedVideo }) } />
       </div>
     );
   }
