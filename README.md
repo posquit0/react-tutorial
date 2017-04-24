@@ -34,6 +34,9 @@
 | 0x01 | [Create React App](01-create-react-app/)                         | 20 mins        |
 | 0x02 | [Simple Contacts](02-simple-contacts/)                           | 40 mins        |
 | 0x03 | [Oh My Youtube](03-oh-my-youtube/)                               | 50 mins        |
+| 0x04 | PropTypes & Lifecycle                                            | xx mins        |
+| 0x05 | React Router                                                     | xx mins        |
+| 0x06 | React + Redux                                                    | xx mins        |
 
 
 ## Extra Curriculum
