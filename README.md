@@ -37,7 +37,7 @@
 
 ## Extra Curriculum
 
-이 커리큘럼을 이해하기 위한 이해하고 있어야 할 선수지식을 추가 커리큘럼을 통해 다룹니다. 해당 내용이 필요하다 생각되는 경우 학습하도록 합니다.
+이 커리큘럼을 이해하기 위한 이해하고 있어야 할 선수지식을 추가 커리큘럼을 통해 다룹니다. 그 외 개발에 도움이 될 수 있는 내용도 다룹니다. 해당 내용이 필요하다 생각되는 경우 학습하도록 합니다.
 
 | #    | Title                                                            | Estimated Time |
 | :--: |----------------------------------------------------------------- | :------------- |
@@ -61,7 +61,8 @@
 
 ## Further Reading
 
-- [Exploring ES6](http://exploringjs.com/es6/)
+- [**React Documentation**](https://facebook.github.io/react/docs/)
+- [**Exploring ES6**](http://exploringjs.com/es6/)
 
 
 ## Links
@@ -70,11 +71,18 @@
 - [**PoApper**](http://www.poapper.com)
 
 
-## <a name="contact">Contact
+## Contribute
+
+프로젝트에 도움이 될 수 있는 의견은 언제든지 환영입니다. [이슈 등록](https://github.com/posquit0/react-tutorial/issues/new) 혹은 Pull Request을 이용해주세요.
+
+React Tutorials follows the [**Contributor Covenant**](http://contributor-covenant.org/version/1/4/) Code of Conduct.
+
+
+## Contact
 
 If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
 
 
-## <a name="license">License
+## License
 
 - [MIT](https://github.com/posquit0/react-tutorial/blob/master/LICENSE)
