@@ -33,11 +33,12 @@
 | 0x00 | [Hello React!](00-hello-world/)                                  | 40 mins        |
 | 0x01 | [Create React App](01-create-react-app/)                         | 20 mins        |
 | 0x02 | [Simple Contacts](02-simple-contacts/)                           | 40 mins        |
+| 0x03 | [Oh My Youtube](03-oh-my-youtube/)                               | 50 mins        |
 
 
 ## Extra Curriculum
 
-이 커리큘럼을 이해하기 위한 이해하고 있어야 할 선수지식을 추가 커리큘럼을 통해 다룹니다. 그 외 개발에 도움이 될 수 있는 내용도 다룹니다. 해당 내용이 필요하다 생각되는 경우 학습하도록 합니다.
+이 커리큘럼을 이해하기 위한 이해하고 있어야 할 선수지식을 추가 커리큘럼을 통해 다룹니다. 그 외 웹 개발에 도움이 될 수 있는 내용도 다룹니다. 해당 내용이 필요하다 생각되는 경우 학습하도록 합니다.
 
 | #    | Title                                                            | Estimated Time |
 | :--: |----------------------------------------------------------------- | :------------- |
@@ -49,6 +50,7 @@
 | 0x95 | [Be Nerd of TMUX](95-be-nerd-of-tmux/)                           | 20 mins        |
 | 0x96 | [Nginx Basics](96-nginx-basics/)                                 | 40 mins        |
 | 0x97 | [Introduction of LetsEncrypt](97-intro-of-letsencrypt/)          | 40 mins        |
+| 0x98 | [GitHub Page & Cloudflare](98-github-page-and-cloudflare/)       | 50 mins        |
 
 
 ## Troubleshooting
