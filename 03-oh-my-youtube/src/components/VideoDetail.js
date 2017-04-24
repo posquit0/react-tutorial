@@ -16,11 +16,12 @@ class VideoDetail extends Component {
 
     const { videoId } = video.id;
     const { title, description } = video.snippet;
+    const url = `https://www.youtube.com/embed/${videoId}`;
 
     return (
       <div className="video-detail">
         <div className="video-player">
-          { videoId }
+          <iframe src={ url }></iframe>
         </div>
         <div className="video-information">
           <h3 className="video-title">{ title }</h3>
