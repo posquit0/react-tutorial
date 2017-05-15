@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './VideoDetail.css';
 
 
 class VideoDetail extends Component {

@@ -1,0 +1,24 @@
+.video-detail {
+
+}
+
+.video-detail .video-player {
+  width: 100%;
+  height: 400px;
+  min-height: 400px;
+  overflow: hidden;
+}
+
+.video-player iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.video-detail .video-information {
+  padding: 10px;
+}
+
+.video-information .video-description {
+  font-size: 0.7em;
+}

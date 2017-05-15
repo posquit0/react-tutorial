@@ -17,6 +17,8 @@ class App extends Component {
       videos: [],
       selectedVideo: null
     };
+
+    this.searchVideos('charlie puth');
   }
 
   searchVideos(query) {
@@ -31,16 +33,18 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+      <div className="app">
+        <div className="app-header">
+          <img src={logo} className="app-logo" alt="logo" />
           <h2>Welcome to React</h2>
+          <SearchBar onQueryChange={ query => this.searchVideos(query) } />
         </div>
-        <SearchBar onQueryChange={ query => this.searchVideos(query) } />
-        <VideoDetail video={ this.state.selectedVideo } />
-        <VideoList
-          videos={ this.state.videos }
-          onVideoSelect={ selectedVideo => this.setState({ selectedVideo }) } />
+        <div className="app-content">
+          <VideoDetail video={ this.state.selectedVideo } />
+          <VideoList
+            videos={ this.state.videos }
+            onVideoSelect={ selectedVideo => this.setState({ selectedVideo }) } />
+        </div>
       </div>
     );
   }

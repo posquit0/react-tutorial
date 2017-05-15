@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './VideoListItem.css'
 
 
 class VideoListItem extends Component {
@@ -12,7 +13,9 @@ class VideoListItem extends Component {
         <span className="thumbnail">
           <img src={ thumbnail } alt={ title } />
         </span>
-        <span className="title">{ title }</span>
+        <div className="information">
+          <h3 className="title">{ title }</h3>
+        </div>
       </li>
     );
   }

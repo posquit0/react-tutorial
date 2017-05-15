@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 import VideoListItem from './VideoListItem';
+import './VideoList.css';
 
 
 class VideoList extends Component {
   renderVideoListItem(video) {
+    console.log(video);
     return (
       <VideoListItem
         key={ video.id.videoId }
