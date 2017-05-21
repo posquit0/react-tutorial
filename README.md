@@ -46,8 +46,8 @@
 | #    | Title                                                            | Estimated Time |
 | :--: |----------------------------------------------------------------- | :------------- |
 | 0x90 | [Web Basics](90-web-basics/)                                     | 110 mins       |
-| 0x91 | [Git Basics](91-git-basics/)                                     | 60 mins        |
-| 0x92 | [Git Intermediate](92-git-intermediate/)                         | 50 mins        |
+| 0x91 | [Component based Design](91-component-based-design/)             | 30 mins        |
+| 0x92 | [Git Basics](92-git-basics/)                                     | 60 mins        |
 | 0x93 | [Be Nerd of Vim](93-be-nerd-of-vim/)                             | 50 mins        |
 | 0x94 | [Be Nerd of Zsh](94-be-nerd-of-zsh/)                             | 20 mins        |
 | 0x95 | [Be Nerd of TMUX](95-be-nerd-of-tmux/)                           | 20 mins        |
