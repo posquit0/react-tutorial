@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import './VideoListItem.css'
 
 
@@ -20,5 +21,10 @@ class VideoListItem extends Component {
     );
   }
 }
+
+VideoListItem.propTypes = {
+  video: PropTypes.object.isRequired,
+  onVideoSelect: PropTypes.func
+};
 
 export default VideoListItem;
